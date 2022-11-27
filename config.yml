@@ -1,0 +1,36 @@
+baseURL: "https://timavilov.top/"
+languageCode: "en-us"
+title: "T|A"
+theme: PaperMod
+
+enableEmoji: true
+pygmentsUseClasses: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+    disableXML: true
+
+params:
+
+    defaultTheme: dark
+    disableThemeToggle: true
+    profileMode:
+        enabled: true
+        title: "Tim Avilov"
+        subtitle: "Hi there 👋, I am an SWE who loves to solve problems and create great user experience. In my free time I play around with pentesting, Web3 and machine learning."
+
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/BeOrNot2Be"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/tim-avilov/"
+        - name: twitter
+          url: "https://twitter.com/Filigreed"
+        - name: telegram
+          url: "https://t.me/BeOrNot2Be"
+        - name: email
+          url: "mailto:timchick.ua@gmail.com"

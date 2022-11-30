@@ -2,6 +2,7 @@ baseURL: "https://timavilov.top/"
 languageCode: "en-us"
 title: "T|A"
 theme: PaperMod
+description: "Tim Avilov's website"
 
 enableEmoji: true
 pygmentsUseClasses: true

@@ -2,7 +2,6 @@ baseURL: "https://timavilov.top/"
 languageCode: "en-us"
 title: "T|A"
 theme: PaperMod
-description: "Tim Avilov's website"
 
 enableEmoji: true
 pygmentsUseClasses: true
@@ -15,6 +14,16 @@ minify:
     disableXML: true
 
 params:
+    env: production 
+    description: "Tim Avilov's website"
+    author: "Tim Avilov"
+
+    assets:
+      favicon: "/favicon.ico"
+      favicon16x16:  "/favicon-16x16.png"
+      favicon32x32:  "/favicon-32x32.png"
+      apple_touch_icon:  "/apple-touch-icon.png"
+
 
     defaultTheme: dark
     disableThemeToggle: true

@@ -5,4 +5,6 @@ Personal website built with hugo.
 > - Ever immortal design.
 > - 100% across board in google lighthouse.
 > - Sub 500 msec time to render.
+> - 0 security vulnerability exposure.
+> - Cloudflare cdn distribution.
 

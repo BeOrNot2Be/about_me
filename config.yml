@@ -11,36 +11,34 @@ buildFuture: false
 buildExpired: false
 
 minify:
-    disableXML: true
+  disableXML: true
 
 params:
-    env: production 
-    description: "Tim Avilov's website"
-    author: "Tim Avilov"
+  env: production
+  description: "Tim Avilov's website"
+  author: "Tim Avilov"
 
-    assets:
-      favicon: "/favicon.ico"
-      favicon16x16:  "/favicon-16x16.png"
-      favicon32x32:  "/favicon-32x32.png"
-      apple_touch_icon:  "/apple-touch-icon.png"
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
 
+  defaultTheme: dark
+  disableThemeToggle: true
+  profileMode:
+    enabled: true
+    title: "Tim Avilov"
+    subtitle: "Hi there 👋, I am an SWE who loves to solve problems and create great user experience. In my free time I play around with pentesting, Web3 and machine learning."
 
-    defaultTheme: dark
-    disableThemeToggle: true
-    profileMode:
-        enabled: true
-        title: "Tim Avilov"
-        subtitle: "Hi there 👋, I am an SWE who loves to solve problems and create great user experience. In my free time I play around with pentesting, Web3 and machine learning."
-
-
-    socialIcons:
-        - name: github
-          url: "https://github.com/BeOrNot2Be"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/tim-avilov/"
-        - name: twitter
-          url: "https://twitter.com/Filigreed"
-        - name: telegram
-          url: "https://t.me/BeOrNot2Be"
-        - name: email
-          url: "mailto:timchick.ua@gmail.com"
+  socialIcons:
+    - name: github
+      url: "https://github.com/BeOrNot2Be"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/tim-avilov/"
+    - name: twitter
+      url: "https://twitter.com/BONot2B"
+    - name: telegram
+      url: "https://t.me/BeOrNot2Be"
+    - name: email
+      url: "mailto:timchick.ua@gmail.com"

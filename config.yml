@@ -29,8 +29,7 @@ params:
   profileMode:
     enabled: true
     title: "Tim Avilov"
-    subtitle: "Hi there 👋, I am an SWE who loves to solve problems and create great user experience. In my free time I play around with pentesting, Web3 and machine learning."
-
+    subtitle: "Hello 👋, I'm an engineer at heart, focused on thoughtful creation with an emphasis on resilience, durability, and availability. You can trace my work here. Always open to discussing current, past, or future projects!"
   socialIcons:
     - name: github
       url: "https://github.com/BeOrNot2Be"
